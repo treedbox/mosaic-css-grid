@@ -3,19 +3,19 @@
 
 ![screenshot](assets/screenshot.jpg)
 
-Auto Grid mosaic organization with a bunch of images at differents sizes finding a place to fit.
+Mosaic CSS Grid auto organization with a bunch of images at differents sizes finding a place to fit. 
 
 ## Online Test
 [https://treedbox.github.io/projectname](https://treedbox.github.io/projectname)
 
 ## FAQ
-#####1. What makes the grid so well organized?
+##### 1. What makes the grid so well organized?
 ```css
 .mosaic{
   grid-auto-flow: dense;
 }
 ```
-#####2. How to join 2 (or more) grid cells?
+##### 2. How to join 2 (or more) grid cells?
 In a grid where the cells are:
 ```
 1 2 3 4
@@ -49,7 +49,7 @@ The 2nd cell will span for two cells, reaching the next row:
 ```
 Because of `dense` at `grid-auto-flow: dense;`, the grid will realocate all others cells organized where it fits best.
 
-#####3. How to make those round corners without holes?
+##### 3. How to make those round corners without holes?
 For the cells:
 ```css
 .mosaic div{
@@ -116,4 +116,4 @@ Site: [treedbox](http://treedbox.com)
 ## License
 [MIT](LICENSE.md) © [TreedBox](https://github.com/treedbox)
 
-[https://github.com/treedbox/projectname](https://github.com/treedbox/projectname)
+[https://github.com/treedbox/mosaic-css-grid](https://github.com/treedbox/mosaic-css-grid)
