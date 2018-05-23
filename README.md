@@ -6,7 +6,7 @@
 Mosaic CSS Grid auto organization with a bunch of images at differents sizes finding a place to fit. 
 
 ## Online Test
-[https://treedbox.github.io/projectname](https://treedbox.github.io/projectname)
+[https://treedbox.github.io/mosaic-css-grid](https://treedbox.github.io/mosaic-css-grid)
 
 ## FAQ
 ##### 1. What makes the grid so well organized?
@@ -88,19 +88,19 @@ Also set a border for the grid to compensate the gap size difference compared wi
 ## Photos
 #### Location 
 * [Jalapão](https://goo.gl/maps/vHCkDwM1mq82)
-  * Pedra furada
-  * Fervedouro
-  * Dunas do jalapão
-  * Lago das Dunas do jalapão
-  * Morro da catedral
-  * Cachoeira da velha
-  * Prainha da Cachoeira da velha
-  * Cachoeira véu de Noiva
-  * Cachoeira do formiga
-  * Árvore de buriti
-  * Rio Formoso
-  * Rio Novo
-  * Tartaruga tracajá
+  * Pedra furada (Holed stone)
+  * Fervedouro (Boil place)
+  * Dunas do jalapão (Dunes of the jalapão)
+  * Lago das Dunas do jalapão (Lake of the Dunes of the jalapão)
+  * Morro da catedral (Cathedral hill)
+  * Cachoeira da velha (Old woman's waterfall)
+  * Prainha da Cachoeira da velha (Small beach of the Old woman's waterfall)
+  * Cachoeira véu de Noiva (Bride Veil waterfall)
+  * Cachoeira do formiga (Ant's waterfall)
+  * Árvore de buriti (Buriti tree)
+  * Rio Formoso (Beautiful river)
+  * Rio Novo (New river)
+  * Tartaruga tracajá do Rio Novo ( tortoise tracaja of the new river)
 
 Photos &copy; **Jonivon Amaral Marques**: Jalapão's Tourist guide
 
