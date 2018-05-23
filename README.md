@@ -1,7 +1,7 @@
 # Mosaic CSS Grid
 > Behold the power of the CSS Grid auto organization ¨\\\_(\*0\*)\_/¨
 
-![screenshot](assets/screenshot.jpg)
+<a href="https://treedbox.github.io/mosaic-css-grid">![screenshot](assets/screenshot.jpg)</a>
 
 Mosaic CSS Grid auto organization with a bunch of images at differents sizes finding a place to fit. 
 
